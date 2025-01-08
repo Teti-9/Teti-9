@@ -1,11 +1,22 @@
-### Hello my name is Matheus 👋
+### Hello, my name is Matheus. 👋
        You can also call me Teti.
        
-- 💬 I'am from Brazil therefore my native language is portuguese but I can also speak english as well.
-- 🏫 I'm a college student and currently 22 years old.
-- 👯 Developing mostly Python (Flask, FastAPI), PHP (Laravel) back-end skills and some React front-end skills.
+- 💬 I'm from Brasil therefore my native language is portuguese but I can also speak english as well.
+- 🏫 I'm currenly on my last year before graduating college (Software Engineering) and currently 22 years old.
+- 👯 Started programming when I was younger with a language called PAWN which i used it to develop GTA-SAMP servers for fun.
 
 **Languages:**  
 
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Rafa-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"><img align="center" alt="Rafa-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+[![My Skills](https://skillicons.dev/icons?i=py,php,godot)](https://skillicons.dev)
+
+**Frameworks:**
+
+[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,laravel)](https://skillicons.dev)
+
+**Databases:**
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+
+**Utils:**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,github,discord)](https://skillicons.dev)
