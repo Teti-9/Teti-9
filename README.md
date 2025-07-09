@@ -7,15 +7,15 @@
 
 **Languages:**  
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs,php,godot)](https://skillicons.dev)
 
 **Frameworks:**
 
-[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,flask,fastapi,express,laravel)](https://skillicons.dev)
 
 **Databases:**
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis)](https://skillicons.dev)
 
 **Utils:**
 
