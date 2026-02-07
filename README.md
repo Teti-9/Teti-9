@@ -2,7 +2,7 @@
        You can also call me Teti.
        
 - 💬 I'm from Brasil therefore my native language is portuguese but I can also speak english as well.
-- 🏫 I'm currenly on my last year before graduating college (Software Engineering) and currently 22 years old.
+- 🏫 I'm currenly on my last year before graduating college (Software Engineering).
 - 👯 Started programming when I was younger with a language called PAWN which i used it to develop GTA-SAMP servers for fun.
 
 **Languages:**  
